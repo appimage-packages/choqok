@@ -46,6 +46,9 @@ frameworks:
     - plasma-framework
     - kdecoration
     - breeze
+    - kemoticons
+    - kcmutils
+    - knotifyconfig
 type: git
 url: http://anongit.kde.org/choqok
 buildsystem: cmake
