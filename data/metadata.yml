@@ -1,4 +1,5 @@
 name: choqok
+binary: choqok
 packages: ''
   #app specifc
 frameworks:
