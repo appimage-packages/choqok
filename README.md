@@ -1,12 +1,12 @@
 # choqok
-[![Build Status](http://aci.pangea.pub/job/choqok-master-appimage/badge/icon)](http://aci.pangea.pub/job/choqok-mastere-appimage/)
+Master branch:
+[![Build Status](http://aci.pangea.pub/job/choqok-master-appimage/badge/icon)](http://aci.pangea.pub/job/choqok-master-appimage/)
 
 AppImage for KDE choqok
 
-Job description
 Choqok ( pronounced: tʃœˈʁʊk ) is a Free/Open Source micro-blogging client for K Desktop Environment.
-Job homepage url
-http://choqok.gnufolks.org/
+
+https://edu.kde.org/choqok/
 
 S3 Download:
 master:
